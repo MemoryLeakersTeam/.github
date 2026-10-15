@@ -1,5 +1,5 @@
 # Memory Leakers
-Siamo il gruppo 3 del progetto di Ingegneria del Software del corso di studi in Informatica dell'Università degli Studi di Padova (2026-27).
+Siamo il gruppo 3 del progetto di Ingegneria del Software del corso di laurea in Informatica dell'Università degli Studi di Padova per l'anno accademico 2026/27.
 
 ## Il team
 Siamo un gruppo composto da 7 persone e ad intensità alta.
